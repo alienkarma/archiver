@@ -1,6 +1,6 @@
 {
   "name": "@alienkarma/archiver",
-  "version": "7.0.1-fork.2",
+  "version": "7.0.1-fork.3",
   "description": "a streaming interface for archive generation",
   "homepage": "https://github.com/archiverjs/node-archiver",
   "author": {
