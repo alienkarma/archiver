@@ -1,6 +1,6 @@
 {
   "name": "@alienkarma/archiver",
-  "version": "7.0.1-fork.3",
+  "version": "7.0.1-fork.5",
   "description": "a streaming interface for archive generation",
   "homepage": "https://github.com/archiverjs/node-archiver",
   "author": {
@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "async": "^3.2.4",
+    "brace-expansion": "^2.0.3",
     "buffer-crc32": "^1.0.0",
     "is-stream": "^4.0.0",
     "lazystream": "^1.0.0",
